@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/niramit</item>
+        <item>@font/niramit_bold</item>
+        <item>@font/niramit_extralight</item>
+        <item>@font/niramit_medium</item>
+        <item>@font/niramit_semibold</item>
+    </array>
+</resources>
